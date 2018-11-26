@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Site da Usabilidade
+
+Baseado no [LabIUtil	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), uma versão um pouco mais moderna do check list de usabilidade (;
 
 You can use the [editor on GitHub](https://github.com/usabilidade/usabilidade.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
