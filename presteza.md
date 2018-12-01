@@ -5,13 +5,10 @@
 - [ ] Open a pull request
 
 
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
 <script>
 
 console.log("I'm alive!");
 
 </script>
-
-
-{% for js in page.customjs %}
-<script async type="text/javascript" src="{{ js }}"></script>
-{% endfor %}
