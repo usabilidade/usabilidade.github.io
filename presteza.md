@@ -1,8 +1,14 @@
 # Algo aconteceu (:
 
-[x] Finish my changes
-[ ] Push my commits to GitHub
-[ ] Open a pull request
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
