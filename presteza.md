@@ -21,14 +21,15 @@ print("hello world!")
 
 ## Checklist
 1.  [ ] Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
+    - <details><summary> </summary> Mais detalhes </details>
 
-<details><summary>2.  [ ] Todos os campos e mostradores de dados possuem rótulos identificativos?
- </summary><p>
+<details><summary> 2.  [ ] Todos os campos e mostradores de dados possuem rótulos identificativos? </summary>
+
 Todo mostrador de dados deve ser identificado por meio de um rótulo único de identificação.
 
 COMENTÁRIO: Embora possam desempenhar um papel favorável na identificação, os hábitos ou o contexto não são suficientes para auxiliar o usuário na identificação de um dado apresentado em uma tela. É necessário definir rótulos significativos para os dados, de modo a auxiliar a compreensão da tela.
 
-COMENTÁRIO: Quando todos os usuários são habituais e podem ser considerados especialistas, podem-se empregar menos rótulos. Nesse caso, o espaço reservado para os rótulos pode permitir a apresentação de mais dados. É útil em algumas situações bem específicas, como no controle de tráfico aéreo.</p></details>
+COMENTÁRIO: Quando todos os usuários são habituais e podem ser considerados especialistas, podem-se empregar menos rótulos. Nesse caso, o espaço reservado para os rótulos pode permitir a apresentação de mais dados. É útil em algumas situações bem específicas, como no controle de tráfico aéreo.</details>
 
 3.  [ ] Caso o dado a entrar possua um formato particular, esse formato encontra-se descrito na tela?
 
