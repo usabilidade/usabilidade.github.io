@@ -1,8 +1,7 @@
 # Algo aconteceu (:
 1.  - [ ] Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
 Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
-2.  
-- [ ] Todos os campos e mostradores de dados possuem rótulos identificativos?
+2.  - [ ] Todos os campos e mostradores de dados possuem rótulos identificativos?
 3.  [ ]
 Caso o dado a entrar possua um formato particular, esse formato encontra-se descrito na tela?
 4.  [ ]
@@ -34,8 +33,8 @@ Existe a possibilidade do usuário obter a lista de comandos básicos da linguag
 17.  [ ]
 Na ocorrência de erros, o usuário pode acessar todas as informações necessárias ao diagnóstico e à solução do problema?
  
-
+<script src="/demo.js"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script>
-$(':checkbox').removeAttr("disabled");
+
 </script>
