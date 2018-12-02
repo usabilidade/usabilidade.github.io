@@ -1,4 +1,9 @@
 ### 1. O espaço de apresentação está diagramado em pequenas zonas funcionais  ?	
+	
+I have more [^1] to say up here.
+
+[^1]: To say down here.
+
 ### 2. A disposição dos objetos de interação de uma caixa de dialogo segue uma ordem lógica?
 ### 3. Nos agrupamentos de dados , os itens estão organizados espacialmente segundo um critério lógico?
 ### 4. Os códigos das teclas aceleradoras de opções de menu estão localizados à direita do nome da opção?	
