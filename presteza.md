@@ -3,19 +3,19 @@
 
 
 ## Checklist
-1. [ ] Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
-    - <details><summary> </summary> Mais detalhes </details>
+#### Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
 
-2. [ ] Todos os campos e mostradores de dados possuem rótulos identificativos?
-   - <details>
-     <summary>Detalhes</summary>
+#### Todos os campos e mostradores de dados possuem rótulos identificativos?
+   
+Todo mostrador de dados deve ser identificado por meio de um rótulo único de identificação.  
 
-     Todo mostrador de dados deve ser identificado por meio de um rótulo único de identificação.  
+> Embora possam desempenhar um papel favorável na identificação, os hábitos ou o contexto não são suficientes para auxiliar o usuário na identificação de um dado apresentado em uma tela. É necessário definir rótulos significativos para os dados, de modo a auxiliar a compreensão da tela.  
 
-     COMENTÁRIO: Embora possam desempenhar um papel favorável na identificação, os hábitos ou o contexto não são suficientes para auxiliar o usuário na identificação de um dado apresentado em uma tela. É necessário definir rótulos significativos para os dados, de modo a auxiliar a compreensão da tela.  
+> Quando todos os usuários são habituais e podem ser considerados especialistas, podem-se empregar menos rótulos. Nesse caso, o espaço reservado para os rótulos pode permitir a apresentação de mais dados. É útil em algumas situações bem específicas, como no controle de tráfico aéreo.
 
-     COMENTÁRIO: Quando todos os usuários são habituais e podem ser considerados especialistas, podem-se empregar menos rótulos. Nesse caso, o espaço reservado para os rótulos pode permitir a apresentação de mais dados. É útil em algumas situações bem específicas, como no controle de tráfico aéreo.
-     </details>
+<abbr title="fonte tal tal tal">Fonte</abbr>
+[Upstage](# "Visit Upstage!")
+
 
 3.  [ ] Caso o dado a entrar possua um formato particular, esse formato encontra-se descrito na tela?
 
