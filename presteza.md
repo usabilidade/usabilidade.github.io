@@ -224,21 +224,3 @@ Na seqüência da apresentação de uma mensagem de erro, o usuário deve ter a 
 > Níveis de explicação cada vez mais aprofundados fornecem ajuda cada vez mais precisa.
 
 [REFERÊNCIA](#tooltip " Bodart & Vanderdonckt [1993] pg 503 rec 1")
- 
-
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-<script>
-  $(document).ready(function() {
-    $("li").click(function() {
-      var checked = $(this).find('[type=checkbox]').prop("checked");
-      $(this).find('[type=checkbox]').prop('checked', !checked);
-    });
-   $(document).tooltip({
-      show: {
-        effect: "slideDown",
-        delay: 150
-      }
-    });
-  });
-</script>
