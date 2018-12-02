@@ -1,8 +1,7 @@
 ### 1. O espaço de apresentação está diagramado em pequenas zonas funcionais  ?	
 	
-I have more [^1] to say up here.
+I have more [^Referencia1] to say up here.
 
-[^1]: To say down here.
 
 ### 2. A disposição dos objetos de interação de uma caixa de dialogo segue uma ordem lógica?
 ### 3. Nos agrupamentos de dados , os itens estão organizados espacialmente segundo um critério lógico?
@@ -14,3 +13,5 @@ I have more [^1] to say up here.
 ### 9. A definição da opção de menu  selecionada por default segue algum critério?	
 ### 10. Os grupos de botões de comando estão dispostos em coluna e à direita, ou em linha e abaixo dos objetos aos quais estão associados?	
 ### 11. O botão de comando selecionado por default está na posição mais alta, se os botões estão dispostos verticalmente, ou na mais à esquerda, se os botões estão dispostos horizontalmente?	
+
+[^Referencia1]: To say down here.
