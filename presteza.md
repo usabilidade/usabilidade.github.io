@@ -47,8 +47,9 @@ Todo mostrador de dados deve ser identificado por meio de um rótulo único de i
 
 17.  [ ] Na ocorrência de erros, o usuário pode acessar todas as informações necessárias ao diagnóstico e à solução do problema?
  
-<script src="/demo.js"></script>
+
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script>
   $(document).ready(function() {
     $("li").click(function() {
