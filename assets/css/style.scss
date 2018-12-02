@@ -7,7 +7,20 @@ input[disabled] {pointer-events:none}
 input[type="checkbox"] {margin-right: 10px}
 li {margin-top: 20px}
 
-.ui-tooltip {
+label {
+  display: inline-block;
+  width: 5em;
+}
+
+.ui-tooltip, .arrow:after {
   background: #616161e6;
+}
+
+.ui-tooltip {
+  padding: 10px 20px;
+  color: white;
   border-radius: 4px;
+  font: bold 14px "Helvetica Neue", Sans-Serif;
+  text-transform: uppercase;
+  box-shadow: 0 0 7px black;
 }
