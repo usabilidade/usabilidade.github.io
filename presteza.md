@@ -7,7 +7,7 @@
 
 Os títulos de telas, janelas e caixas de diálogo devem estar no alto, ou centrados ou alinhados e à esquerda.
 
-[REFERÊNCIA](# "Bodart & Vanderdonckt [1993] pg 136 rec 4")
+[REFERÊNCIA](#void "Bodart & Vanderdonckt [1993] pg 136 rec 4")
 
 ### Todos os campos e mostradores de dados possuem rótulos identificativos?
    
