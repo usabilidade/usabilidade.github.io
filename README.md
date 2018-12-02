@@ -16,10 +16,10 @@ O ErgoList poderá iniciá-lo na técnica de inspeção da ergonomia de interfac
 - [Agrupamento por localização](/agrupamento.md)
   - Verifique se a distribuição espacial dos itens traduz as relações entre as informações.
 
-- [Agrupamento por formato](/agrupamento)
+- [Agrupamento por formato](/agrupamento-por-localizacao)
   - Verifique os formatos dos itens como meio de transmitir associações e diferenças.
 
-- [Feedback]()
+- [Feedback](/agrupamento-por-formato)
   - Avalie a qualidade do feedback imediato às ações do usuário.
 
 - [Legibilidade]()
