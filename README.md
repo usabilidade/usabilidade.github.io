@@ -13,7 +13,7 @@ O ErgoList poderá iniciá-lo na técnica de inspeção da ergonomia de interfac
 ## Módulos
 - [Presteza](/presteza.html)
   - Verifique se o sistema informa e conduz o usuário durante a interação.
-- [Agrupamento por localização]()
+- [Agrupamento por localização](/agrupamento)
   - Verifique se a distribuição espacial dos itens traduz as relações entre as informações.
 
 - [Agrupamento por formato]()
