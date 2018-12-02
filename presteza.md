@@ -1,3 +1,9 @@
+<style>
+body {
+ background-color: red; 
+}
+input[disabled] {pointer-events:none}
+</style>
 # Algo aconteceu (:
 1.  - [ ] Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
 Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
