@@ -1,8 +1,11 @@
 <style>
 input[disabled] {pointer-events:none}
+input[type="checkbox"] {margin-right: 10px}
 </style>
-# Algo aconteceu (:
-1.  - [ ] Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
+
+# Presteza 
+## Checklist
+#### 1.  - [ ] Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
 Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
 2.  - [ ] Todos os campos e mostradores de dados possuem rótulos identificativos?
 3.  [ ]
