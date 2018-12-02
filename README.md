@@ -1,6 +1,6 @@
 ## Site da Usabilidade
 
-Baseado no [LabIUtil	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), deseonvli para cadeira de IHC da UCS um site com o mesmo conteúdo, porém com uma roupagem um pouco mais atualizada.
+Baseado no [LabIUtil	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), desenvolvi para cadeira de IHC da UCS um site com o mesmo conteúdo, porém com uma roupagem um pouco mais atualizada.
 
 ## Motivação
 Se você se interessa por melhorias na intuitividade, na facilidade de uso e na utilidade 
@@ -16,7 +16,7 @@ O ErgoList poderá iniciá-lo na técnica de inspeção da ergonomia de interfac
 - [Agrupamento por localização](/agrupamento)
   - Verifique se a distribuição espacial dos itens traduz as relações entre as informações.
 
-- [Agrupamento por formato]()
+- [Agrupamento por formato](/agrupamento)
   - Verifique os formatos dos itens como meio de transmitir associações e diferenças.
 
 - [Feedback]()
