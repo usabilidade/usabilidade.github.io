@@ -62,5 +62,11 @@
         delay: 150
       }
     });
+        $('h3').click(function(){
+        $(this).nextUntil("h3").stop(true, true).slideToggle();
+    })
+    $('h3').each(function () { 
+      $(this).nextUntil("h3").hide();
+    });
   });
 </script>
