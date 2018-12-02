@@ -29,7 +29,28 @@ Data (DD/MM/AA) : _ _ / _ _ / _ _
 
 [REFERÊNCIA](# "Bodart & Vanderdonckt [1993] pg 68 rec 2, Smith & Mosier [1986] pg 56 rec 1.4.20")
 
-4.  [ ] As unidades para a entrada ou apresentação de dados métricos ou financeiros encontram-se descritas na tela?
+### 4. As unidades para a entrada ou apresentação de dados métricos ou financeiros encontram-se descritas na tela?
+
+Um rótulo descritivo deve ser empregado caso o valor a ser apresentado ou digitado esteja associado a uma unidade financeira ou métrica.
+
+> Defina as unidades de medida dos dados nos próprios rótulos ou como parte dos campos de dados. Faça isso de modo consistente.
+
+```
+Total da fatura: R$ _ _ _ . _ _ _,_ _
+Velocidade horária (km/h): _ _ _
+```
+
+> Faça isso de modo consistente.
+```
+Distância (km):_ _ _
+ou
+Distância: _ _ _ km
+```
+
+> Indique a unidade de medida de cada variável apresentada.
+
+
+REFERÊNCIAS: Bodart & Vanderdonckt [1993] pg 68 rec 5, Smith & Mosier [1986] pg 57 rec 1.4.21+ pg 118 rec 2.2.2*10
 
 5.  [ ] Os rótulos dos campos contêm um elemento específico, por exemplo ":", como convite às entradas de dados?
 
