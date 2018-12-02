@@ -3,9 +3,13 @@
 
 
 ## Checklist
-#### Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
+### Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
 
-#### Todos os campos e mostradores de dados possuem rótulos identificativos?
+Os títulos de telas, janelas e caixas de diálogo devem estar no alto, ou centrados ou alinhados e à esquerda.
+
+[REFERÊNCIA](# "Bodart & Vanderdonckt [1993] pg 136 rec 4")
+
+### Todos os campos e mostradores de dados possuem rótulos identificativos?
    
 Todo mostrador de dados deve ser identificado por meio de um rótulo único de identificação.  
 
@@ -13,11 +17,17 @@ Todo mostrador de dados deve ser identificado por meio de um rótulo único de i
 
 > Quando todos os usuários são habituais e podem ser considerados especialistas, podem-se empregar menos rótulos. Nesse caso, o espaço reservado para os rótulos pode permitir a apresentação de mais dados. É útil em algumas situações bem específicas, como no controle de tráfico aéreo.
 
-<abbr title="fonte tal tal tal">Fonte</abbr>
-[Upstage](# "Visit Upstage!")
 
+3. ### Caso o dado a entrar possua um formato particular, esse formato encontra-se descrito na tela?
 
-3.  [ ] Caso o dado a entrar possua um formato particular, esse formato encontra-se descrito na tela?
+Se o usuário possui um formato particular para o dado, então um rótulo descritivo deve ser empregado.
+
+```
+EXEMPLO POSITIVO:
+Data (DD/MM/AA) : _ _ / _ _ / _ _
+```
+
+[REFERÊNCIA](# "Bodart & Vanderdonckt [1993] pg 68 rec 2, Smith & Mosier [1986] pg 56 rec 1.4.20")
 
 4.  [ ] As unidades para a entrada ou apresentação de dados métricos ou financeiros encontram-se descritas na tela?
 
