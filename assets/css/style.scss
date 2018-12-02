@@ -1,0 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+input[disabled] {pointer-events:none}
+input[type="checkbox"] {margin-right: 10px}
