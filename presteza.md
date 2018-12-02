@@ -2,14 +2,14 @@
  Esse critério engloba os meios utilizados para levar o usuário a realizar determinadas ações, como, por exemplo, entrada de dados. Esse critério engloba também todos os mecanismos ou meios que permitem ao usuário conhecer as alternativas, em termos de ações, conforme o estado ou contexto nos quais ele se encontra. A presteza diz respeito igualmente às informações que permitem ao usuário identificar o estado ou contexto no qual ele se encontra, bem como as ferramentas de ajuda e seu modo de acesso.
 
 
-## Checklist
-### Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
+# Checklist
+### 1. Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
 
 Os títulos de telas, janelas e caixas de diálogo devem estar no alto, ou centrados ou alinhados e à esquerda.
 
-[REFERÊNCIA](#void "Bodart & Vanderdonckt [1993] pg 136 rec 4")
+[REFERÊNCIA](#tooltip "Bodart & Vanderdonckt [1993] pg 136 rec 4")
 
-### Todos os campos e mostradores de dados possuem rótulos identificativos?
+### 2. Todos os campos e mostradores de dados possuem rótulos identificativos?
    
 Todo mostrador de dados deve ser identificado por meio de um rótulo único de identificação.  
 
@@ -18,7 +18,7 @@ Todo mostrador de dados deve ser identificado por meio de um rótulo único de i
 > Quando todos os usuários são habituais e podem ser considerados especialistas, podem-se empregar menos rótulos. Nesse caso, o espaço reservado para os rótulos pode permitir a apresentação de mais dados. É útil em algumas situações bem específicas, como no controle de tráfico aéreo.
 
 
-3. ### Caso o dado a entrar possua um formato particular, esse formato encontra-se descrito na tela?
+### 3. Caso o dado a entrar possua um formato particular, esse formato encontra-se descrito na tela?
 
 Se o usuário possui um formato particular para o dado, então um rótulo descritivo deve ser empregado.
 
@@ -86,6 +86,12 @@ REFERÊNCIAS: Bodart & Vanderdonckt [1993] pg 68 rec 5, Smith & Mosier [1986] pg
     $("li").click(function() {
       var checked = $(this).find('[type=checkbox]').prop("checked");
       $(this).find('[type=checkbox]').prop('checked', !checked);
-    });                 
+    });
+   $(document).tooltip({
+      show: {
+        effect: "slideDown",
+        delay: 150
+      }
+    });
   });
 </script>
