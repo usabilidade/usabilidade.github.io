@@ -96,3 +96,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/
+https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
