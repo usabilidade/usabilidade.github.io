@@ -1,6 +1,6 @@
 ## Site da Usabilidade
 
-Baseado no [LabIUtil	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), uma versão um pouco mais moderna do check list de usabilidade (;
+Baseado no [LabIUtil	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), deseonvli para cadeira de IHC da UCS um site com o mesmo conteúdo, porém com uma roupagem um pouco mais atualizada.
 
 ## Motivação
 Se você se interessa por melhorias na intuitividade, na facilidade de uso e na utilidade 
@@ -10,7 +10,7 @@ O ErgoList poderá iniciá-lo na técnica de inspeção da ergonomia de interfac
 
 
 
-### Módulos
+## Módulos
 - [Presteza](/presteza.html)
   - Verifique se o sistema informa e conduz o usuário durante a interação.
 - [Agrupamento por localização]()
@@ -63,37 +63,3 @@ O ErgoList poderá iniciá-lo na técnica de inspeção da ergonomia de interfac
 
 - [Compatibilidade]()
   - Verifique a compatibilidade do sistema com as expectativas e necessidades do usuário em sua tarefa.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/usabilidade/usabilidade.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/
-https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
