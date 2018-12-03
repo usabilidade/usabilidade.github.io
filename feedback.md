@@ -2,9 +2,13 @@
 
 O Feedback Imediato diz respeito às respostas do sistema às ações do usuário. Tais entradas podem ir do simples pressionar de uma tecla até uma lista de comandos. Em todos os casos, respostas do computador devem ser fornecidas, de forma rápida, com passo (timing) apropriado e consistente para cada tipo de transação. De todo modo, uma resposta rápida deve ser fornecida com informações sobre a transação solicitada e seu resultado.
 
-# CHECKLIST 
+# CHECKLIST
 
-*Detalhes em construção - Ajude a adicionar! :)*
+*Detalhes em construção - Ajude a adicionar! :)*  
+*Abra o tópico no [site da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/quest.htm) 
+clicando na esquerda no nome do tópico, e me ajude a adicionar o conteúdo para cada pergunta!
+Basta cliquar na flecha na direira da pergunta, copiar o conteúdo, e colar na página desse tópico 
+[no GitHub](https://github.com/usabilidade/usabilidade.github.io)*
 
 ### 1. O sistema fornece feedback para todas as ações do usuário?
 ### 2. Quando, durante a entrada de dados, o sistema torna-se indisponível ao usuário, devido a algum processamento longo, o usuário é avisado desse estado do sistema e do tempo dessa indisponibilidade?
