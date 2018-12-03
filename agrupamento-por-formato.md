@@ -233,9 +233,10 @@ Para mostrar um grupo de dados relacionados, utilize uma caixa de agrupamento.
 
 > Para minimizar o tempo do deslocamento visual ao percorrer as informações, os dados que estão ligados devem ser apresentados suficientemente próximos uns dos outros.
 
+Referência[^16]
 [^16]: Bodart & Vanderdonckt [1993] pg 115 rec 1
 
-### 17. Quando apresenta opções não disponíveis no momento, o sistema as mostra de forma diferenciada visualmente?
+### 17. Quando apresenta opções não disponíveis no momento, o sistema as mostra de forma diferenciada visualmente?[^17]
 
 Difere nciação visual para opções não disponíveis.
 
