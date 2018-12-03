@@ -1,3 +1,11 @@
+# Agrupamento/Distinção por Formato 
+
+O critério de Agrupamento/Distinção por Formato diz respeito mais especificamente às características gráficas (formato, cor, etc.) que indicam se itens pertencem ou não a uma dada classe, ou que indicam ainda distinções entre classes diferentes ou distinções entre itens de uma dada classe.
+
+# CHECKLIST
+
+Clique no tópico para expandir
+
 ### 1. Os controles e comandos encontram-se visualmente diferenciados das informações apresentadas nas telas?
 
 Diferenciação visual para funções diferentes.
