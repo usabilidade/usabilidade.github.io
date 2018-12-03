@@ -1,6 +1,6 @@
 # Site da Usabilidade
 
-Baseado no [LabIUtil	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), desenvolvi para cadeira de IHC da UCS um site com o mesmo conteúdo, porém com uma roupagem um pouco mais atualizada.
+Baseado no [LabIUtil	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), este site foi desenvolvido para a cadeira de IHC da UCS. Possui o mesmo conteúdo da ErgoList da UFSC, com uma interface atualizada.
 
 # Contribua!
 Se tiver alguma sugestão, fique a vontade para sugerir alterações! O conteúdo do site é gerado a partir dos documentos hospedados no GitHub.   
