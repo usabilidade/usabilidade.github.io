@@ -16,25 +16,25 @@ Atualmente está nesse site os 3 primeiros módulos do [Checklist	da UFSC](http:
 - [Agrupamento por formato](/agrupamento-por-formato)
   - Verifique os formatos dos itens como meio de transmitir associações e diferenças.
 
-- [Feedback](/agrupamento-por-formato)
+- [Feedback](/feedback)
   - Avalie a qualidade do feedback imediato às ações do usuário.
 
-- [Legibilidade]()
+- [Legibilidade](/legibilidade)
   - Verifique a legibilidade das informações apresentadas nas telas do sistema.
 
-- [Concisão]()
+- [Concisão](/concisao)
   - Verifique o tamanho dos códigos e termos apresentados e introduzidos no sistema.
 
-- [Ações Mínimas]()
+- [Ações Mínimas](/acoes-minimas)
   - Verifique a extensão dos diálogos estabelecidos para a realização dos objetivos do usuário.
 
-- [Densidade Informacional]()
+- [Densidade Informacional](/densidade-informacional)
   - Avalie a densidade informacional das telas apresentadas pelo sistema.
 
-- [Ações Explícitas]()
+- [Ações Explícitas](/acoes-explicitas)
   - Verifique se é o usuário quem comanda explicitamente as ações do sistema.
 
-- [Controle do Usuário]()
+- [Controle do Usuário](/controle-do-usuario)
   - Avalie as possibilidades do usuário controlar o encadeamento e a realização das ações.
 
 - [Flexibilidade]()
