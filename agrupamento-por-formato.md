@@ -1,4 +1,13 @@
-### 1. Os controles e comandos encontram-se visualmente diferenciados das informações apresentadas nas telas?
+### 1. Os controles e comandos encontram-se visualmente diferenciados das informações apresentadas nas telas?[^1]
+
+Diferenciação visual para funções diferentes.
+
+Fazer uma distinção visual clara de áreas que têm diferentes funções (área de comandos, área de mensagens, etc.).
+
+> Os separadores podem ser empregados para delimitar visualmente as zona lógicas, funcionais ou de escolha de uma aplicação.
+
+[^1]: Smith & Mosier [1986] pg 220 rec 3.0*8 Bodart & Vanderdonckt [1993] pg 144 rec 4
+
 ### 2. Códigos visuais são empregados para associar diferentes categorias de dadosdistribuídos de forma dispersa nas telas?
 ### 3. Os diferentes tipos de elementos de uma tela de consulta (dados, comandos e instruções) são visualmente distintos uns dos outros?
 ### 4. Os rótulos são visualmente diferentes dos dados aos qu ais estão associados?
