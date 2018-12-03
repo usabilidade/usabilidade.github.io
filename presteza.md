@@ -2,7 +2,7 @@
  Esse critério engloba os meios utilizados para levar o usuário a realizar determinadas ações, como, por exemplo, entrada de dados. Esse critério engloba também todos os mecanismos ou meios que permitem ao usuário conhecer as alternativas, em termos de ações, conforme o estado ou contexto nos quais ele se encontra. A presteza diz respeito igualmente às informações que permitem ao usuário identificar o estado ou contexto no qual ele se encontra, bem como as ferramentas de ajuda e seu modo de acesso.
 
 
-# Checklist
+# Checklist - Clique no tópico para expandir
 ### 1. Os títulos de telas, janelas e caixas de diálogo estão no alto, centrados ou justificados à esquerda?
 
 Os títulos de telas, janelas e caixas de diálogo devem estar no alto, ou centrados ou alinhados e à esquerda.
