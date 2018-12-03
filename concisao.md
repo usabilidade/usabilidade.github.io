@@ -7,7 +7,7 @@ O critério Concisão diz respeito à carga perceptiva e cognitiva de saídas e 
 *Detalhes em construção - Ajude a adicionar! :)*  
 *Abra o tópico no [site da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/quest.htm) 
 clicando na esquerda no nome do tópico, e me ajude a adicionar o conteúdo para cada pergunta!
-Basta cliquar na flecha na direira da pergunta, copiar o conteúdo, e colar na página desse tópico 
+Basta clicar na flecha na direira da pergunta, copiar o conteúdo, e colar na página desse tópico 
 [no GitHub](https://github.com/usabilidade/usabilidade.github.io)*
 
 ### 1. O sistema oferece valores defaults para acelerar a entrada de dados?
