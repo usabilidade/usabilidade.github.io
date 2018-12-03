@@ -1,3 +1,11 @@
+# Agrupamento/Distinção por Localização 
+
+O critério de Agrupamento/Distinção por Localização diz respeito ao posicionamento relativo dos itens, estabelecido para indicar se eles pertencem ou não a uma dada classe, ou, ainda, para indicar diferenças entre classes. Esse critério também diz respeito ao posicionamento relativo dos itens dentro de uma classe.
+
+# CHECKLIST
+
+Clique no tópico para expandir
+
 ### 1. O espaço de apresentação está diagramado em pequenas zonas funcionais  ?	
 
 Telas, caixas e janelas com zonas funcionais diagramadas.
