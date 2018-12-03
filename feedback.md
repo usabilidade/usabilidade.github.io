@@ -4,7 +4,7 @@ O Feedback Imediato diz respeito às respostas do sistema às ações do usuári
 
 # CHECKLIST 
 
-*Detalhes em construção*
+*Detalhes em construção - Ajude a adicionar! :)*
 
 ### 1. O sistema fornece feedback para todas as ações do usuário?
 ### 2. Quando, durante a entrada de dados, o sistema torna-se indisponível ao usuário, devido a algum processamento longo, o usuário é avisado desse estado do sistema e do tempo dessa indisponibilidade?
