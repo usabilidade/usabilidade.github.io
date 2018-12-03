@@ -1,14 +1,11 @@
-## Site da Usabilidade
+# Site da Usabilidade
 
 Baseado no [LabIUtil	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), desenvolvi para cadeira de IHC da UCS um site com o mesmo conteúdo, porém com uma roupagem um pouco mais atualizada.
 
-## Motivação
-Se você se interessa por melhorias na intuitividade, na facilidade de uso e na utilidade 
-dos programas de software interativo ... 
-
-O ErgoList poderá iniciá-lo na técnica de inspeção da ergonomia de interfaces homem-computador. 
-
-
+# Contribua!
+Se tiver alguma sugestão, fique a vontade para sugerir alterações! O conteúdo do site é gerado a partir dos documentos hospedados no GitHub.   
+Clique no link no topo da página para ver os arquivos (Ou [clique aqui](https://github.com/usabilidade/usabilidade.github.io)). Lá você pode abrir o conteúdo de qualquer página, clicar no topo direito no botão do lápis (✎) para editar e sugerir qualquer edição.   
+Atualmente está nesse site os 3 primeiros módulos do [Checklist	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), fique a vontade para me ajudar a expandir! Basta abrir um tópico no Site da CheckList da UFSC, e adicionar o que falta no GitHub.
 
 ## Módulos
 - [Presteza](/presteza)
