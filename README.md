@@ -3,9 +3,9 @@
 Baseado no [LabIUtil	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), este site foi desenvolvido para a cadeira de IHC da UCS. Possui o mesmo conteúdo da ErgoList da UFSC, porém com uma interface atualizada.
 
 # Contribua!
-Se tiver alguma sugestão, fique a vontade para sugerir alterações! O conteúdo do site é gerado a partir dos documentos hospedados no GitHub.   
+Se tiver alguma sugestão, fique à vontade para sugerir alterações! O conteúdo do site é gerado a partir dos documentos hospedados no GitHub.   
 Clique no link no topo da página para ver os arquivos (Ou [clique aqui](https://github.com/usabilidade/usabilidade.github.io)). Lá você pode abrir o conteúdo de qualquer página, clicar no topo direito (no botão do lápis ✎) para editar e sugerir qualquer edição.   
-Atualmente está nesse site os 3 primeiros módulos do [Checklist	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), fique a vontade para ajudar a expandir! Basta abrir um tópico no Site da CheckList da UFSC, e adicionar o que falta no GitHub.
+Atualmente está nesse site os 3 primeiros módulos do [Checklist	da UFSC](http://www.labiutil.inf.ufsc.br/ergolist/check.htm), fique à vontade para ajudar a expandir! Basta abrir um tópico no Site da CheckList da UFSC, e adicionar o que falta no GitHub.
 
 # Módulos
 - [Presteza](/presteza)
